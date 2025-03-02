@@ -59,6 +59,6 @@ This project is open-source under the MIT License.
 ---
 
 ## 👤 Author
-- Mohamed Baashith
+- Mohamed Baashith U
 - 📧 Email: mdbaashith692k2@gmail.com.com
 - 📌 GitHub: MohamedBaashith
