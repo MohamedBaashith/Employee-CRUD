@@ -40,13 +40,25 @@ cd YourRepoName
 cd Myproject
 go mod tidy
 go run main.go
-Backend runs on: http://localhost:5000
 ```
+Backend runs on: http://localhost:5000
 
 ### 3️⃣ **Frontend Setup (React.js)**
 ```sh
 cd myapp
 npm install
 npm start
-Frontend runs on: http://localhost:3000
 ```
+Frontend runs on: http://localhost:3000
+
+---
+
+## 📜 License
+This project is open-source under the MIT License.
+
+---
+
+## 👤 Author
+Mohamed Baashith
+📧 Email: mdbaashith692k2@gmail.com.com
+📌 GitHub: MohamedBaashith
