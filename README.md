@@ -37,7 +37,7 @@ cd YourRepoName
 
 ### 2️⃣ **Backend Setup (Golang)**
 ```sh
-cd Myproject
+cd MyProject
 go mod tidy
 go run main.go
 ```
